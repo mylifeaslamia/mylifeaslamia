@@ -18,6 +18,10 @@
 
 - ⚡ Fun fact **The shortest flight in the world lasted 57 seconds**
 
+  <h3 align="center">I’m also working on Burning Passion 🥵🔥</h3>
+<div align="center"> <img src="https://raw.githubusercontent.com/mylifeaslamia/README.md/main/Burning Passion banner real.jpg"> </div>
+- 🔥 Burning Passion is a VC newsletter dedicated to researching and analyzing the hottest startups in the game.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lamia-lahbabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lamia-lahbabi" height="30" width="40" /></a>
